@@ -4,4 +4,4 @@ for i in str:
     if i.isalpha():
         count += 1
 
-print("Number of charecters in "+str+" is: ", count)
+print("Number of characters in "+str+" is: ", count)
