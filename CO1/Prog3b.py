@@ -1,4 +1,4 @@
-n=int(input("enter the number of numbers:"))
+n=int(input("enter the limit:"))
 list=[]
 for i in range(n):
  a=int(input("enter the number:"))
